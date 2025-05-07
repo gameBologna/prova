@@ -1,0 +1,407 @@
+.homepage {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 10px;
+  padding: 140px 0px 0px;
+  position: relative;
+  background-color: #000000;
+  width: 100%;
+}
+
+.homepage .element {
+  position: relative;
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+}
+
+.homepage .footer {
+  display: flex;
+  width: 1728px;
+  height: 118px;
+  align-items: flex-start;
+  gap: 10px;
+  padding: 50px 20px;
+  position: relative;
+  background-color: #000000;
+}
+
+.homepage .frame {
+  display: flex;
+  flex-direction: column;
+  width: 424px;
+  align-items: flex-start;
+  gap: 30px;
+  padding: 0px 20px;
+  position: relative;
+  margin-bottom: -218.00px;
+}
+
+.homepage .div {
+  position: relative;
+  width: 195px;
+  height: 39px;
+}
+
+.homepage .frame-2 {
+  position: relative;
+  width: 404px;
+  height: 108px;
+  margin-right: -20.00px;
+}
+
+.homepage .frame-3 {
+  position: relative;
+  width: 146px;
+  height: 29px;
+}
+
+.homepage .main {
+  display: inline-flex;
+  flex-direction: column;
+  height: 2358px;
+  align-items: flex-start;
+  gap: 30px;
+  padding: 20px 0px 40px;
+  position: relative;
+}
+
+.homepage .frame-4 {
+  display: flex;
+  width: 1728px;
+  height: 841.89px;
+  align-items: flex-start;
+  gap: 10px;
+  padding: 0px 20px;
+  position: relative;
+}
+
+.homepage .frame-5 {
+  display: flex;
+  flex-direction: column;
+  width: 400px;
+  align-items: flex-start;
+  gap: 30px;
+  position: relative;
+}
+
+.homepage .frame-6 {
+  position: relative;
+  width: 1px;
+  height: 39px;
+}
+
+.homepage .frame-7 {
+  display: flex;
+  flex-direction: column;
+  width: 424px;
+  align-items: flex-start;
+  gap: 30px;
+  padding: 0px 20px;
+  position: relative;
+}
+
+.homepage .div-wrapper {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.homepage .text-wrapper {
+  position: relative;
+  width: fit-content;
+  margin-top: -1.00px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+  text-decoration: underline;
+}
+
+.homepage .frame-8 {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  position: relative;
+  flex: 0 0 auto;
+  margin-right: -20.00px;
+}
+
+.homepage .text-wrapper-2 {
+  position: relative;
+  width: 404px;
+  margin-top: -1.00px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.homepage .work-arte {
+  height: 841.89px;
+  object-fit: cover;
+  position: relative;
+  flex: 1;
+  flex-grow: 1;
+}
+
+.homepage .frame-9 {
+  display: flex;
+  width: 1728px;
+  height: 844px;
+  align-items: flex-start;
+  gap: 10px;
+  padding: 0px 20px;
+  position: relative;
+}
+
+.homepage .frame-10 {
+  position: relative;
+  width: 425px;
+  height: 108px;
+  margin-right: -25.00px;
+}
+
+.homepage .text-wrapper-3 {
+  width: fit-content;
+  font-size: 24px;
+  position: relative;
+  margin-top: -1.00px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.homepage .work-grafica {
+  height: 844px;
+  background-color: #000000;
+  position: relative;
+  flex: 1;
+  flex-grow: 1;
+}
+
+.homepage .frame-11 {
+  display: flex;
+  width: 1728px;
+  height: 844px;
+  align-items: flex-start;
+  gap: 10px;
+  padding: 0px 20px;
+  position: relative;
+  margin-bottom: -291.89px;
+}
+
+.homepage .work-prodotto {
+  height: 844px;
+  background-color: #020000;
+  position: relative;
+  flex: 1;
+  flex-grow: 1;
+}
+
+.homepage .frame-12 {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 0px 400px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.homepage .text-wrapper-4 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1.00px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.homepage .header {
+  display: flex;
+  width: 1728px;
+  height: 140px;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0px 20px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #000000;
+}
+
+.homepage .BRUNO-MUNARI {
+  position: relative;
+  width: fit-content;
+  margin-top: -1.00px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 24px;
+  text-align: right;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.homepage .ART-GRAPHIC-PRODUCT-wrapper {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  position: absolute;
+  top: 41px;
+  left: 864px;
+}
+
+.homepage .ART-GRAPHIC-PRODUCT {
+  position: relative;
+  width: fit-content;
+  margin-top: -1.00px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+
+
+/* ---------------------------------------- menu ---------------------------*/
+
+.menu {
+  display: flex;
+  flex-direction: column;
+  height: 1117px;
+  align-items: center;
+  gap: 10px;
+  position: relative;
+  background-color: #000000;
+}
+
+.menu .header {
+  display: flex;
+  height: 140px;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0px 20px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  background-color: #000000;
+}
+
+.menu .BRUNO-MUNARI {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.menu .text-wrapper {
+  position: relative;
+  width: fit-content;
+  margin-top: -1.00px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.menu .frame {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  position: absolute;
+  top: 41px;
+  left: 864px;
+}
+
+.menu .ART-GRAPHIC-PRODUCT {
+  position: relative;
+  width: fit-content;
+  margin-top: -1.00px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.menu .vector {
+  position: relative;
+  width: 28px;
+  height: 28px;
+  margin-right: -1.00px;
+}
+
+.menu .three-days-three {
+  position: relative;
+  width: 1137px;
+  height: 967px;
+  text-shadow: 0px 4px 4px #00000040;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 30px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.menu .span {
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 30px;
+  letter-spacing: 0;
+}
+
+.menu .text-wrapper-2 {
+  font-family: "Inter-Italic", Helvetica;
+  font-style: italic;
+}
+
+.menu .text-wrapper-3 {
+  font-family: "Inter-Light", Helvetica;
+  font-weight: 300;
+}
+
+/* ---------------------------------------- menu ---------------------------*/
+
+
+
+a{
+  text-decoration: none;
+  color: #ffffff;
+}
+
+a:hover{
+  text-decoration: none;
+  color: #ffffff;
+  text-decoration: underline;
+}
