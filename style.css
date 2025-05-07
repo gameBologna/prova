@@ -147,7 +147,7 @@
 }
 
 .homepage .work-arte {
-  height: 840px;
+  height: 841px;
   object-fit: cover;
   position: relative;
   flex: 1;
@@ -223,9 +223,9 @@
 .homepage .text-wrapper-4 {
   position: relative;
   width: fit-content;
-  margin-top: -0.5px;
+  margin-top: -0.4px;
   font-family: "Inter-Regular", Helvetica;
-  font-weight: 350;
+  font-weight: 300;
   color: #ffffff;
   font-size: 30px;
   letter-spacing: 0;
